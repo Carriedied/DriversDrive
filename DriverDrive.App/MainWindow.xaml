@@ -1,0 +1,54 @@
+﻿<Window x:Class="DriverDrive.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DriverDrive.App"
+        xmlns:converters="clr-namespace:DriverDrive.View.Converters;assembly=DriverDrive.View"
+        mc:Ignorable="d"
+        Title="Драйверный Драйв" Height="600" Width="800">
+    <Window.Resources>
+        <converters:DriverStatusToColorConverter x:Key="StatusToColorConverter"/>
+        <converters:InstallDriverParamsConverter x:Key="InstallDriverParamsConverter"/>
+    </Window.Resources>
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Центральное управление драйверами" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,20">
+            <Button Content="Сканировать сеть" Command="{Binding ScanCommand}" Margin="0,0,10,0" Padding="20,10"/>
+            <TextBlock Text="{Binding StatusMessage}" VerticalAlignment="Center" Foreground="Red"/>
+        </StackPanel>
+
+        <ListView Grid.Row="2" ItemsSource="{Binding Computers}" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border Background="#F5F5F5" Padding="10" Margin="0,0,0,10" CornerRadius="5">
+                        <StackPanel>
+                            <TextBlock Text="{Binding Hostname}" FontWeight="Bold" FontSize="16"/>
+                            <TextBlock Text="{Binding IP}" Margin="0,5,0,0"/>
+                            <ItemsControl ItemsSource="{Binding Devices}" Margin="20,10,0,0">
+                                <ItemsControl.ItemTemplate>
+                                    <DataTemplate>
+                                        <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                                            <TextBlock Text="{Binding Name}" Width="250"/>
+                                            <TextBlock Text="{Binding DriverStatus}" Width="100" Foreground="{Binding DriverStatus, Converter={StaticResource StatusToColorConverter}}"/>
+                                            <Button Content="Установить" Margin="10,0,0,0"
+                                                    Command="{Binding DataContext.InstallDriverCommand, RelativeSource={RelativeSource AncestorType=ListView}}"
+                                                    CommandParameter="{Binding RelativeSource={RelativeSource AncestorType=ListView}, Path=DataContext, Converter={StaticResource InstallDriverParamsConverter}, ConverterParameter={Binding RelativeSource={RelativeSource Mode=OneTime}, Path=.}}"/>
+                                        </StackPanel>
+                                    </DataTemplate>
+                                </ItemsControl.ItemTemplate>
+                            </ItemsControl>
+                        </StackPanel>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Window>

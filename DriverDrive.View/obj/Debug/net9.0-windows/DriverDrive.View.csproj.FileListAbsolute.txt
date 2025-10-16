@@ -1,0 +1,17 @@
+C:\VS Projects\DriverDrive\DriverDrive.View\bin\Debug\net9.0-windows\DriverDrive.View.deps.json
+C:\VS Projects\DriverDrive\DriverDrive.View\bin\Debug\net9.0-windows\DriverDrive.View.dll
+C:\VS Projects\DriverDrive\DriverDrive.View\bin\Debug\net9.0-windows\DriverDrive.View.pdb
+C:\VS Projects\DriverDrive\DriverDrive.View\bin\Debug\net9.0-windows\DriverDrive.Core.dll
+C:\VS Projects\DriverDrive\DriverDrive.View\bin\Debug\net9.0-windows\DriverDrive.ViewModel.dll
+C:\VS Projects\DriverDrive\DriverDrive.View\bin\Debug\net9.0-windows\DriverDrive.Core.pdb
+C:\VS Projects\DriverDrive\DriverDrive.View\bin\Debug\net9.0-windows\DriverDrive.ViewModel.pdb
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\DriverDrive.View.csproj.AssemblyReference.cache
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\DriverDrive.View.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\DriverDrive.View.AssemblyInfoInputs.cache
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\DriverDrive.View.AssemblyInfo.cs
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\DriverDrive.View.csproj.CoreCompileInputs.cache
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\DriverDr.282947E7.Up2Date
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\DriverDrive.View.dll
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\refint\DriverDrive.View.dll
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\DriverDrive.View.pdb
+C:\VS Projects\DriverDrive\DriverDrive.View\obj\Debug\net9.0-windows\ref\DriverDrive.View.dll

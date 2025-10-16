@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGjQDuP0C20=",
+  "success": true,
+  "projectFilePath": "C:\\VS Projects\\DriverDrive\\DriverDrive.Infrastructure\\DriverDrive.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zhere\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Zhere\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

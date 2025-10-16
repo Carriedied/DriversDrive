@@ -1,0 +1,15 @@
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\bin\Debug\net9.0\DriverDrive.ViewModel.deps.json
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\bin\Debug\net9.0\DriverDrive.ViewModel.dll
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\bin\Debug\net9.0\DriverDrive.ViewModel.pdb
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\bin\Debug\net9.0\DriverDrive.Core.dll
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\bin\Debug\net9.0\DriverDrive.Core.pdb
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\DriverDrive.ViewModel.csproj.AssemblyReference.cache
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\DriverDrive.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\DriverDrive.ViewModel.AssemblyInfoInputs.cache
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\DriverDrive.ViewModel.AssemblyInfo.cs
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\DriverDrive.ViewModel.csproj.CoreCompileInputs.cache
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\DriverDr.BBE3C9D9.Up2Date
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\DriverDrive.ViewModel.dll
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\refint\DriverDrive.ViewModel.dll
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\DriverDrive.ViewModel.pdb
+C:\VS Projects\DriverDrive\DriverDrive.ViewModel\obj\Debug\net9.0\ref\DriverDrive.ViewModel.dll

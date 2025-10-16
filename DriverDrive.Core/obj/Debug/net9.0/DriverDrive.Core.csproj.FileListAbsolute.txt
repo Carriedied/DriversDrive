@@ -1,0 +1,11 @@
+C:\VS Projects\DriverDrive\DriverDrive.Core\bin\Debug\net9.0\DriverDrive.Core.deps.json
+C:\VS Projects\DriverDrive\DriverDrive.Core\bin\Debug\net9.0\DriverDrive.Core.dll
+C:\VS Projects\DriverDrive\DriverDrive.Core\bin\Debug\net9.0\DriverDrive.Core.pdb
+C:\VS Projects\DriverDrive\DriverDrive.Core\obj\Debug\net9.0\DriverDrive.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projects\DriverDrive\DriverDrive.Core\obj\Debug\net9.0\DriverDrive.Core.AssemblyInfoInputs.cache
+C:\VS Projects\DriverDrive\DriverDrive.Core\obj\Debug\net9.0\DriverDrive.Core.AssemblyInfo.cs
+C:\VS Projects\DriverDrive\DriverDrive.Core\obj\Debug\net9.0\DriverDrive.Core.csproj.CoreCompileInputs.cache
+C:\VS Projects\DriverDrive\DriverDrive.Core\obj\Debug\net9.0\DriverDrive.Core.dll
+C:\VS Projects\DriverDrive\DriverDrive.Core\obj\Debug\net9.0\refint\DriverDrive.Core.dll
+C:\VS Projects\DriverDrive\DriverDrive.Core\obj\Debug\net9.0\DriverDrive.Core.pdb
+C:\VS Projects\DriverDrive\DriverDrive.Core\obj\Debug\net9.0\ref\DriverDrive.Core.dll
