@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "ip": "192.168.1.10",
+      "hostname": "PC-01",
+      "devices": [
+        {
+          "name": "NVIDIA GeForce RTX 3060",
+          "driver_status": "missing",
+          "driver_url": "https://example.com/driver.exe"
+        }
+      ]
+    }
+  ]
+}
