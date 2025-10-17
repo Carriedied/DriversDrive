@@ -7,11 +7,11 @@ namespace DriverDrive.Infrastructure.Services
 {
     public class PythonExecutorService : IDeviceScannerService, IDriverInstallerService
     {
-        private const string PYTHON_SCRIPT_PATH = @"C:\VS Projects\DriverDrive\PythonScripts\script.py";
+        private const string PYTHON_SCRIPT_PATH = @"C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\PythonScripts\driver_boost\driver_manager_api.py";
 
         public async Task<IEnumerable<Computer>> ScanNetworkAsync()
         {
-            var request = new { command = "scan_network", @params = new { } };
+            var request = new { command = "run_driver_scan_and_download", @params = new { } };
             var response = await ExecutePythonScriptAsync(request);
 
             if (response.status?.ToString() == "error")
@@ -86,12 +86,25 @@ namespace DriverDrive.Infrastructure.Services
 
             await process.StandardInput.WriteLineAsync(jsonRequest);
             await process.StandardInput.FlushAsync();
+
             process.StandardInput.Close();
+
             var output = await process.StandardOutput.ReadToEndAsync();
             var error = await process.StandardError.ReadToEndAsync();
 
-            Console.WriteLine($"Python stdout: {output}");
-            Console.WriteLine($"Python stderr: {error}");
+            //Console.WriteLine($"Python process started with PID: {process.Id}");
+            //Console.WriteLine($"Python executable path (FileName): {process.StartInfo.FileName}");
+            // Проверим, какой именно python вызывается
+            //process.Start();
+            //await process.StandardInput.WriteLineAsync("{\"command\":\"debug_python_version\", \"params\":{}}"); // Отправляем тестовую команду
+            //await process.StandardInput.FlushAsync();
+            //process.StandardInput.Close();
+
+            // Ждем немного, чтобы процесс мог вывести версию
+            //await Task.Delay(1000);
+
+            //Console.WriteLine($"Python stdout: {output}");
+            //Console.WriteLine($"Python stderr: {error}");
 
             if (!string.IsNullOrEmpty(error))
             {
@@ -100,6 +113,7 @@ namespace DriverDrive.Infrastructure.Services
             }
 
             Console.WriteLine($"Python output: {output}");
+
             return JsonConvert.DeserializeObject<dynamic>(output);
         }
     }

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DriverDrive.App",
+    "\\DriverDrive.Core",
+    "\\DriverDrive.Infrastructure",
+    "\\DriverDrive.Infrastructure\\Services",
+    "\\DriverDrive.View",
+    "\\DriverDrive.ViewModel",
+    "\\PythonScripts",
+    "\\PythonScripts\\driver_boost"
+  ],
+  "SelectedNode": "\\DriverDrive.App\\MainWindow.xaml",
+  "PreviewInSolutionExplorer": false
+}

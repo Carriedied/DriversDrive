@@ -13,3 +13,19 @@ C:\VS Projects\DriverDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDri
 C:\VS Projects\DriverDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\refint\DriverDrive.Infrastructure.dll
 C:\VS Projects\DriverDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.pdb
 C:\VS Projects\DriverDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\ref\DriverDrive.Infrastructure.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\bin\Debug\net9.0\DriverDrive.Infrastructure.deps.json
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\bin\Debug\net9.0\DriverDrive.Infrastructure.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\bin\Debug\net9.0\DriverDrive.Infrastructure.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\bin\Debug\net9.0\DriverDrive.Core.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\bin\Debug\net9.0\DriverDrive.Core.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.AssemblyInfo.cs
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.sourcelink.json
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDr.0858DDF6.Up2Date
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\refint\DriverDrive.Infrastructure.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\DriverDrive.Infrastructure.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.Infrastructure\obj\Debug\net9.0\ref\DriverDrive.Infrastructure.dll

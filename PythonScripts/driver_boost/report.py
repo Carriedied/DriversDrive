@@ -1,14 +1,11 @@
 import json
-import os
-import http.client
 
 
-def save_report(output_path: str, results: list):
+def generate_report_json(results: list) -> str:
     """
     results — список словарей от downloader.download_for_device
-    Сохраняет JSON в output_path.
+    Возвращает JSON-строку.
     """
-
     # Если results пустой, создаем специальную структуру
     if not results:
         empty_report = {
@@ -17,15 +14,11 @@ def save_report(output_path: str, results: list):
                 {
                     "ip": "192.168.1.10",
                     "hostname": "PC-01",
+                    "devices": []
                 }
             ]
         }
-
-        os.makedirs(os.path.dirname(output_path) if os.path.dirname(output_path) else '.', exist_ok=True)
-        with open(output_path, "w", encoding="utf-8") as f:
-            json.dump(empty_report, f, indent=2, ensure_ascii=False)
-        print(f"Отчет сохранён (пустой): {output_path}")
-        return
+        return json.dumps(empty_report, ensure_ascii=False)
 
     # Если results не пустой, работаем как раньше
     serial = []
@@ -41,7 +34,5 @@ def save_report(output_path: str, results: list):
             "link_used": rec["link_used"]
         })
 
-    os.makedirs(os.path.dirname(output_path) if os.path.dirname(output_path) else '.', exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(serial, f, indent=2, ensure_ascii=False)
-    print(f"Отчет сохранён: {output_path}")
+    # Возвращаем JSON-строку
+    return json.dumps({"status": "success", "data": serial}, ensure_ascii=False)

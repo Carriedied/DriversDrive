@@ -31,3 +31,37 @@ C:\VS Projects\DriverDrive\DriverDrive.App\obj\Debug\net9.0-windows\refint\Drive
 C:\VS Projects\DriverDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.pdb
 C:\VS Projects\DriverDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.genruntimeconfig.cache
 C:\VS Projects\DriverDrive\DriverDrive.App\obj\Debug\net9.0-windows\ref\DriverDrive.App.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.App.exe
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.App.deps.json
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.App.runtimeconfig.json
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.App.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.App.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.Core.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.Infrastructure.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.View.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.ViewModel.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.Infrastructure.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.ViewModel.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.View.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\bin\Debug\net9.0-windows\DriverDrive.Core.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.csproj.AssemblyReference.cache
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App_MarkupCompile.cache
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App_MarkupCompile.lref
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.g.resources
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.AssemblyInfoInputs.cache
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.AssemblyInfo.cs
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.csproj.CoreCompileInputs.cache
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.sourcelink.json
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDr.7D8B921C.Up2Date
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\refint\DriverDrive.App.dll
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.pdb
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\DriverDrive.App.genruntimeconfig.cache
+C:\Users\Zhere\OneDrive\Документы\GitHub\DriversDrive\DriverDrive.App\obj\Debug\net9.0-windows\ref\DriverDrive.App.dll

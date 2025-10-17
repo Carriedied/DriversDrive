@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DriverDrive.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+980fc55c5224611b900220c68549d9fafcf36927")]
 [assembly: System.Reflection.AssemblyProductAttribute("DriverDrive.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DriverDrive.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
